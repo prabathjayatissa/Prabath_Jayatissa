@@ -2,7 +2,7 @@
 
 I'm Dr Prabath, currently working as a Lecture in Faculty of Computer Science at University of Applied Sciences Technikum - Wien in Vienna.
 
-Interested in 
+Interested in  
 
 * Interoperability in healthcare (HL7/FHIR)
 * Secondary Use of Health Data (OMOP-CDM)
