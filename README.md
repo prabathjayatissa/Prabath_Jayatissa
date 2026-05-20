@@ -6,8 +6,9 @@ Interested in
 
 * Interoperability in healthcare (HL7/FHIR)
 * Secondary Use of Health Data (OMOP-CDM)
-* Digital health systems development and implementation
-* Health inforamtics
+* Digital health
+* Health Information systems development and implementation
+* Health informatics
 * Bioinformatics
 * Mobile & Game Development 
 
