@@ -10,7 +10,7 @@ Interested in
 * Health Information systems development and implementation
 * Health informatics
 * Bioinformatics
-* Mobile & Game Development 
+* Mobile & Game Developmennt
 
 I love making new things. If you have project and you're in need help, let me know, I'm happy to provide you a hand.
 
